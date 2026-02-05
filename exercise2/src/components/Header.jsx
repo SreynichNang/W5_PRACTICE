@@ -1,6 +1,6 @@
 import React from "react";
 
-const Header = () =>{
+function Header() {
   return(
     <header class="block">
       <h1>Welcome again !</h1>

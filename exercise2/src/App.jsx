@@ -1,8 +1,8 @@
-import Header from './new/Header'
-import Main from './new/Main'
-import Footer from './new/Footer'
+import Header from './components/Header'
+import Main from './components/Main'
+import Footer from './components/Footer'
 
-const App = () => {
+function App() {
 
   return (
     <>
@@ -10,7 +10,7 @@ const App = () => {
       <Main/>
       <Footer/>
     </>
-  )
+  );
 }
 
 export default App

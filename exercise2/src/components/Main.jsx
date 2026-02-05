@@ -1,4 +1,4 @@
-const Main = () =>{
+function Main() {
   return(
     <main class="block">
       React (also known as React.js or ReactJS) is a free and open-source
